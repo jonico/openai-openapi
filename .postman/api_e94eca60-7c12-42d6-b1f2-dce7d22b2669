@@ -9,6 +9,7 @@ id = e94eca60-7c12-42d6-b1f2-dce7d22b2669
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"41094746-35292039-b7c6-4c4f-a4c4-c1258a7b9e38","path":"OpenAI Reference Collection.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
